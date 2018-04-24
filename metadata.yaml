@@ -4,9 +4,9 @@ missions:
   description: The Istio A/B Testing provides a real example where 2 services A/B will be available for A/B testing from a client.
   metadata:
     level: expert
-- id: distrib-tracing
+- id: istio-distrib-tracing
   name: Istio - Distributed tracing
-  description: The Istio A/B distributed tracing ....
+  description: The Istio A/B distributed tracing bo
   metadata:
     level: expert
 - id: cache
