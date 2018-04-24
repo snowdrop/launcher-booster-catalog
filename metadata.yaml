@@ -26,7 +26,7 @@ missions:
     level: foundational
 - id: istio-a-b
   name: Istio - A/B Testing
-  description: The Istio A/B Testing provides a real example where 2 services A/B will be available for A/B testing from a client.
+  description: The Istio A/B Testing mission provides a real example where 2 services A/B will be available for A/B testing from a client.
   metadata:
     level: expert
 - id: istio-circuit-breaker
@@ -36,7 +36,7 @@ missions:
     level: expert
 - id: istio-distrib-tracing
   name: Istio - Distributed tracing
-  description: The Istio A/B distributed tracing bo
+  description: The Istio distributed tracing mission demonstrates how simple distributed tracing can be integrated with an application running on an Istio-enabled cluster.
   metadata:
     level: expert
 - id: rest-http
