@@ -4,5 +4,3 @@ source:
   git:
     url: https://github.com/snowdrop/spring-boot-istio-distributed-tracing-booster.git
     ref: automatic
-metadata:
-  worksWithLegacyOsio: true
