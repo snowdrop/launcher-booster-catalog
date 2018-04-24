@@ -1,5 +1,5 @@
 name: Istio - Spring Boot - A/B Testing
-description: Quickstart to play with Istio servicemesh and A/B Testing strategy
+description: Booster to play with Istio servicemesh and A/B Testing strategy
 source:
   git:
     url: https://github.com/snowdrop/spring-boot-ab-testing-booster.git
