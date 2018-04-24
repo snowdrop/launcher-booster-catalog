@@ -1,5 +1,5 @@
 name: Istio - Spring Boot - Distributed Tracing
-description: Quickstart to play with Istio servicemesh and Distributed Tracing - Jaeger
+description: Booster to play with Istio servicemesh and Distributed Tracing - Jaeger
 source:
   git:
     url: https://github.com/snowdrop/spring-boot-istio-distributed-tracing-booster.git
