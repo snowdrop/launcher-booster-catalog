@@ -29,6 +29,11 @@ missions:
   description: The Istio A/B Testing provides a real example where 2 services A/B will be available for A/B testing from a client.
   metadata:
     level: expert
+- id: istio-circuit-breaker
+  name: Istio - Circuit Breaker
+  description: The Istio Circuit Breaker mission demonstrates how Istio can limit access to a degraded service until it becomes available to handle requests. This helps prevent cascading failure in other services that depend on the failed services for functionality.
+  metadata:
+    level: expert
 - id: istio-distrib-tracing
   name: Istio - Distributed tracing
   description: The Istio A/B distributed tracing bo
