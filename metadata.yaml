@@ -38,7 +38,7 @@ missions:
     istio: true
 - id: istio-distrib-tracing
   name: Istio - Distributed tracing
-  description: The Istio distributed tracing mission demonstrates how simple distributed tracing can be integrated with an application running on an Istio-enabled cluster.
+  description: The Istio distributed tracing <a target="_blank" href="https://github.com/snowdrop/spring-boot-istio-distributed-tracing-booster/blob/master/README.md#environment-preparation">mission</a> demonstrates how simple distributed tracing can be integrated with an application running on an Istio-enabled cluster.
   metadata:
     level: expert
     istio: true
