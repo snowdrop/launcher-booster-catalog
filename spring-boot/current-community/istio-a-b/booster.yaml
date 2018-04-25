@@ -4,3 +4,5 @@ source:
   git:
     url: https://github.com/snowdrop/spring-boot-ab-testing-booster.git
     ref: master
+metadata:
+  istio: true    
