@@ -24,9 +24,9 @@ missions:
   description: The Health Check mission demonstrates the health check pattern. When you deploy an application, its important to know if it is available and if it can start handling incoming requests. Implementing the health check pattern allows you to monitor the health of an application, which includes if an application is available and whether it is able to service requests.
   metadata:
     level: foundational
-- id: istio-a-b
-  name: Istio - A/B Testing
-  description: The Istio A/B Testing mission provides a real example where 2 services A/B will be available for A/B testing from a client.
+- id: istio-routing
+  name: Istio - Routing
+  description: The Istio Routing mission demonstrates how Istio can be used to route traffic to/from services, including load balancing traffic to different versions of the same service. This can be used to set up A/B tests, canary deployments, or simply do rolling deployments during a production release.
   metadata:
     level: expert
     istio: true
@@ -38,7 +38,7 @@ missions:
     istio: true
 - id: istio-distrib-tracing
   name: Istio - Distributed tracing
-  description: The Istio distributed tracing <a target="_blank" href="https://github.com/snowdrop/spring-boot-istio-distributed-tracing-booster/blob/master/README.md#environment-preparation">mission</a> demonstrates how simple distributed tracing can be integrated with an application running on an Istio-enabled cluster.
+  description: The Istio distributed tracing mission demonstrates how simple distributed tracing can be integrated with an application running on an Istio-enabled cluster.
   metadata:
     level: expert
     istio: true
