@@ -42,9 +42,9 @@ missions:
   metadata:
     level: expert
     istio: true
-- id: istio-mutual-tls
-  name: Istio - Mutual TLS
-  description: The Istio Mutual TLS mission demonstrates how Istio mutual TLS functionality can be used to secure communication between services.
+- id: istio-security
+  name: Istio - Security
+  description: The Istio Security mission demonstrates how Istio mutual TLS and ACL functionality can be used to secure communication between services.
   metadata:
     level: expert
     istio: true

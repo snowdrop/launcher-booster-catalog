@@ -1,6 +1,0 @@
-name: Istio - Spring Boot - Mutual TLS
-description: Booster presenting Istio Mutual TLS functionality
-source:
-  git:
-    url: https://github.com/snowdrop/spring-boot-istio-tls-booster.git
-    ref: master
